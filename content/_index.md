@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,21 +54,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Data analyst intern 
+          company: Auristione
+          company_url: 'https://auristone.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Singapore
+          date_start: '2023-08-07'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Enhanced data quality, contributing to robust model outcomes
+              * Built ML models using gene features for predicting cancer types
+        - title: Exchange student
+          company: NUS Overseas Colleges program
           company_url: ''
           company_logo: org-x
           location: California
