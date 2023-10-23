@@ -96,19 +96,19 @@ sections:
           organization_url: https://www.sustech.edu.cn/en/
           title: First Class Scholarship
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          organization: Southern University of Science and Technology
           organization_url: https://www.sustech.edu.cn/en/
           title: 'Best Innovation award in the Global Engineer Talent Research and Innovation Summer School'
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
+          organization: Guangdong Provincial Department of Education
           organization_url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2019n/2019_zt27/jyjs/guangdong/
           title: 'Outstanding Volunteer in Summer Social Practice'
           url: ''
