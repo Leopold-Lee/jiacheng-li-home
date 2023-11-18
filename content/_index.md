@@ -68,7 +68,7 @@ sections:
         - title: Teaching assistant (Java Programming and Computer Organization)
           company: SUSTech Computer Science Department
           company_url: ''
-          company_logo: org-x
+          company_logo: sustech
           location: Shenzhen
           date_start: '2021-08-07'
           date_end: '2020-12-31'
@@ -79,7 +79,7 @@ sections:
         - title: Senior tutor
           company: SUSTech Administrative College
           company_url: ''
-          company_logo: org-gc
+          company_logo: sustech
           location: Shenzhen，China
           date_start: '2021-09-01'
           date_end: '2022-06-02'
