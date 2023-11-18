@@ -76,6 +76,17 @@ sections:
               Responsibilities include:
               * Developed lesson plans and assignments, answering questions of students
               * Managed assignment deployment on an online judge 
+        - title: Senior tutor
+          company: SUSTech Administrative College
+          company_url: ''
+          company_logo: org-gc
+          location: Shenzhen，China
+          date_start: '2021-09-01'
+          date_end: '2022-06-02'
+          description: |2-
+              Responsibilities include:
+              * Guided and mentored a group of 30 freshman students
+              * Orchestrated various college activities
     design:
       columns: '2'
   - block: accomplishments
