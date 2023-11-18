@@ -65,14 +65,17 @@ sections:
               Responsibilities include:
               * Enhanced data quality, contributing to robust model outcomes
               * Built ML models using gene features for predicting cancer types
-        - title: Exchange student
-          company: NUS Overseas Colleges program
+        - title: Teaching assistant (Java Programming and Computer Organization)
+          company: SUSTech Computer Science Department
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+          location: Shenzhen
+          date_start: '2021-08-07'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+              * Developed lesson plans and assignments, answering questions of students
+              * Managed assignment deployment on an online judge 
     design:
       columns: '2'
   - block: accomplishments
