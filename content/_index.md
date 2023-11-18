@@ -177,15 +177,13 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: portfolio
-    id: projects
+  - block: collection
     content:
       title: Projects
       filters:
         folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+          - project 
+        exclude_featured: true
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
@@ -200,7 +198,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
