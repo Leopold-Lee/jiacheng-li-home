@@ -57,7 +57,7 @@ sections:
         - title: Data analyst intern 
           company: Auristione
           company_url: 'https://auristone.com/'
-          company_logo: org-gc
+          company_logo: auristone
           location: Singapore
           date_start: '2023-08-07'
           date_end: ''
