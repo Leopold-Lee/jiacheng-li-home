@@ -99,7 +99,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: |2-
+              What I do:
+              * Smoothing the electromyographic signals to control prosthetic limbs
+              * Combination of deep learning and traditional signal processing.
           organization: Southern University of Science and Technology
           organization_url: https://www.sustech.edu.cn/en/
           title: 'Best Innovation award in the Global Engineer Talent Research and Innovation Summer School'
@@ -107,7 +110,10 @@ sections:
         - certificate_url: ''
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description: ''
+          description: |2-
+              What I do:
+              * Led a team in a teaching volunteer program, benefiting 100+ children
+              * Orchestrated curriculum scheduling and managed volunteer coordination
           organization: Guangdong Provincial Department of Education
           organization_url: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2019n/2019_zt27/jyjs/guangdong/
           title: 'Outstanding Volunteer in Summer Social Practice'
