@@ -35,7 +35,11 @@ abstract: AndroidX is an official Android library that enables backward compatib
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: 
+  - Android
+  - AndroidX
+  - Support Library
+  - Class Migration
 
 # Display this page in the Featured widget?
 featured: false
