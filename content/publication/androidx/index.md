@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2023-09-21T00:00:00Z'
-doi: ''
+doi: '10.1109/QRS60937.2023.00048'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''

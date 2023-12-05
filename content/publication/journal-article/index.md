@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Towards a Better Understanding of the Official Android API Lists"
 authors:
+- Sinan Wang
+- Qi Zhang
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Yida Tao
+- Yepang Liu
+date: "2023-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,17 +18,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Preparing submitting to *IEEE Transactions on Software Engineering"
+publication_short: 'to be subbmitted'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Android apps are built upon the Android APIs that abstract the system’s functionalities. These APIs are officially documented in several text files, which we call Android API Lists (AALs) in our study. Previous research on Android APIs has been dependent on specific, yet varied, AALs. As pointed out by a recent study, using different AALs can produce significantly varying research outcomes. It highlights the need for a comprehensive investigation of the AALs. To this end, we conducted the first systematic study about four official AALs. We first analyzed their characteristics and evolution. Then, we compared their documented APIs to reveal their differences. To understand the impact of such differences, we further studied the API existence on nine real devices, including stock Android and vendor-customized Android devices. Finally, we analyzed API usage in 17,759 real-world Android apps, including open-source apps, commercial apps, and malware, to measure the threat of utilizing different AALs for Android research. Our study uncovered the instability of official AALs and the inconsistency between them. We also observed usages of vendor-customized APIs from normal apps, which currently gain little attention from the research community. Based on our findings, we draw several implications for future work. We believe our study can serve as a valuable resource for practitioners and researchers, offering them a deeper understanding of Android APIs and API lists.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
-featured: false
+- Android, Empirical Research
+featured: True
 
 # links:
 # - name: ""
