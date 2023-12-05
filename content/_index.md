@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications and Pantents
       filters:
         folders:
           - publication
