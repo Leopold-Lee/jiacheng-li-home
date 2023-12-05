@@ -10,12 +10,8 @@ authors:
 - admin
 - Yida Tao
 - Yepang Liu
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2023-12-21T00:00:00Z'
+date: '2023-09-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
