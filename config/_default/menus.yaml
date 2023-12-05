@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Publications
     url: '#pub'
-    weight: 50
+    weight: 20
   - name: Experiences
     url: '#exp'
-    weight: 50
+    weight: 30
   - name: Accomplishments
     url: '#acc'
-    weight: 20
+    weight: 40
   - name: Gallery
     url: '#gallery'
-    weight: 30
+    weight: 50
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
