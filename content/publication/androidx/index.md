@@ -39,7 +39,7 @@ tags:
   - Android
   - AndroidX
   - Support Library
-  - Class Migration
+  - Library Migration
 
 # Display this page in the Featured widget?
 featured: false
