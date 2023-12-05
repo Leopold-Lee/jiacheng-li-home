@@ -4,8 +4,8 @@ authors:
 - Sinan Wang
 - Qi Zhang
 - admin
-- Yida Tao
 - Yepang Liu
+
 date: "2023-12-31T00:00:00Z"
 doi: ""
 
