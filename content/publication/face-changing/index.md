@@ -21,7 +21,7 @@ publication_types: ['patent']
 publication: Invention Patent Under Review
 publication_short: "*Patent*"
 
-summary: There is a new type of app that trigger its malicious behaviors under specific conditions, these conditions may include triggering actions based on particular IP addresses, locations, or specific times. Our approach to detecting and mitigating these threats involves a comprehensive analysis, combining both static and dynamic methods. In my role, I focused on the development of the static analysis component, employing sophisticated taint analysis techniques to scrutinize data flow within APKs. This allowed us to pinpoint patterns indicative of malicious behavior triggers. This work has been applied for a patent and is currently undergoing review.
+abstract: There is a new type of app that trigger its malicious behaviors under specific conditions, these conditions may include triggering actions based on particular IP addresses, locations, or specific times. Our approach to detecting and mitigating these threats involves a comprehensive analysis, combining both static and dynamic methods. In my role, I focused on the development of the static analysis component, employing sophisticated taint analysis techniques to scrutinize data flow within APKs. This allowed us to pinpoint patterns indicative of malicious behavior triggers. This work has been applied for a patent and is currently undergoing review.
 
 tags: 
   - Android
