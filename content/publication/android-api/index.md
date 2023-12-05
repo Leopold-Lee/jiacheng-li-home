@@ -11,13 +11,9 @@ authors:
 - Yida Tao
 - Yepang Liu
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2023-09-21T00:00:00Z'
-doi: '10.1109/QRS60937.2023.00048'
+date: '2023-12-31T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,22 +21,21 @@ publishDate: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 23rd IEEE International Conference on Software Quality, Reliability, and Security*
 publication_short: In *QRS 2023*
 
-abstract: AndroidX is an official Android library that enables backward compatibility for Android APIs used by various apps. It is the successor of the Android Support library since Android 9.0. Since then, many apps that originally relied on Android Support needed to be adapted to use AndroidX. However, for app developers, such a migration task can be challenging and error-prone. Yet, there is no systematic study on the migration status of real-world Android apps or the issues that may arise during the migration to AndroidX. To fill this knowledge gap, we conducted the first comprehensive study concerning the adoption and adaptation of the AndroidX library. In this study, we inspected 171 Stack Overflow posts about AndroidX and identified common categories of issues that can occur when adapting apps to use AndroidX, as well as the causes. We also examined the trend of these issues in recent five years to assess their impact over time. Then, we investigated the utilization status of both Android Support and AndroidX libraries in 15,334 top commercial apps and 2,470 open-source apps. Finally, we developed an algorithm that utilizes cosine similarity to identify Java class mappings between Android Support and AndroidX. The algorithm allows us to recover an additional mapping of 579 Java class pairs, which can supplement the official class mapping.
+abstract: Android apps are built upon the Android APIs that abstract the system’s functionalities. These APIs are officially documented in several text files, which we call Android API Lists (AALs) in our study. Previous research on Android APIs has been dependent on specific, yet varied, AALs. As pointed out by a recent study, using different AALs can produce significantly varying research outcomes. It highlights the need for a comprehensive investigation of the AALs. To this end, we conducted the first systematic study about four official AALs. We first analyzed their characteristics and evolution. Then, we compared their documented APIs to reveal their differences. To understand the impact of such differences, we further studied the API existence on nine real devices, including stock Android and vendor-customized Android devices. Finally, we analyzed API usage in 17,759 real-world Android apps, including open-source apps, commercial apps, and malware, to measure the threat of utilizing different AALs for Android research. Our study uncovered the instability of official AALs and the inconsistency between them. We also observed usages of vendor-customized APIs from normal apps, which currently gain little attention from the research community. Based on our findings, we draw several implications for future work. We believe our study can serve as a valuable resource for practitioners and researchers, offering them a deeper understanding of Android APIs and API lists.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags: 
   - Android
-  - AndroidX
-  - Support Library
-  - Class Migration
+  - API Compatibility
+  - Android API List 
 
 # Display this page in the Featured widget?
 featured: false
