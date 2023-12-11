@@ -31,7 +31,7 @@ bio: I am deeply passionate about software engineering.
 interests:
   - Software Engineering
   - Program Analysis
-  - Android Ecosystem
+  - Software Security
   - Programming Languages
 
 # Education to show in About widget
